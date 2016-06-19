@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://nishantmehta.github.io
+title: Nishant Mehta
+tagline: Understanding the art of software dev
+description: My awesome new site
+paginate: 5
